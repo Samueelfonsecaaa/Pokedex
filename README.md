@@ -1,5 +1,5 @@
 # Pokedex
-Nesse projeto foi utliziado:
+Nesse projeto foi utilizado:
 
 HTML, CSS, JAVASCRIPT, GIT, Consumo de APIs Rest.
 
